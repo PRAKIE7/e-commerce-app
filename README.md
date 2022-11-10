@@ -1,70 +1,24 @@
-# Getting Started with Create React App
+# E-Commerce app Using ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This react app is made by using ReactJS framework and for CSS I have used Bootstrap.
 
-## Available Scripts
+# Sign-Up/Registration Page
+## Screen-1 As user didnot enter credentials in the desired manner so it shows error in the form of a red cross 
+![Screenshot (88)](https://user-images.githubusercontent.com/97822366/200969425-063d730d-43b2-4a4a-a9c3-c3a1d70ae2f2.png) 
+## Screen-2 Now user has entered correct credentials according to the parameters given so it doesnot show any error
+![Screenshot (89)](https://user-images.githubusercontent.com/97822366/200969427-68494626-4869-493d-9763-5fda68a8f8e2.png)
+## Screen-3 Hence user got registered or the sign up is successful
+![Screenshot (90)](https://user-images.githubusercontent.com/97822366/200969421-364ccb49-1729-4a2e-aa2e-24b51645622c.png)
 
-In the project directory, you can run:
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Sign-In/Login Page
+## Screen-1 User enters its credentials for logging in
+![Screenshot (91)](https://user-images.githubusercontent.com/97822366/200969700-26bd06b9-36fd-40a1-b832-737960e05d45.png)
+## Screen-2 As the user clicks on the sign-in button it successfully log-in
+![Screenshot (92)](https://user-images.githubusercontent.com/97822366/200969698-3e02fca9-5fe9-4c14-945c-80faf3ae74a9.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+# Axios is used for user authentication:-
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![How-To-Configure-Vue js-REST-API-Consumption-with-Axios](https://user-images.githubusercontent.com/97822366/200967207-2c8d7ac5-30d3-4863-8215-b67cba5cfd4f.jpg)
